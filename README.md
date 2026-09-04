@@ -1,4 +1,4 @@
-# Music-Recommendation-System
+
 # 🎵 Spotify Music Recommendation System
 
 A machine learning-based music recommendation system that uses **Spotify data and audio features** to recommend songs based on user preferences and similarity between tracks.
